@@ -1105,4 +1105,4 @@ client.on('message', message => {
 });
 
 
-client.login('التوكن اهنا');
+client.login('token');
